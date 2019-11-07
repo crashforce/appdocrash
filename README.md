@@ -1,1 +1,3 @@
 appdocrash
+
+Ajustando os configs.
